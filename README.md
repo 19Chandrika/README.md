@@ -3,6 +3,7 @@
 🎓 MCA Student  
 💻 Aspiring Software Developer & Cybersecurity Enthusiast  
 🔐 Passionate about Network Security and Problem Solving  
+Digital Artist | 💻 Tech Enthusiast
 
 ---
 
@@ -15,10 +16,11 @@ I enjoy building projects and learning how systems work in real-world environmen
 
 ## 📚 Currently Learning
 
-- Data Structures & Algorithms  
+- Data Structures & Algorithms
+- Java and Kotlin Development
 - Python for Security & Automation  
 - Network Security Concepts  
-- Web Development Basics  
+- Web Development   
 - Problem Solving & Coding Practice  
 
 ---
