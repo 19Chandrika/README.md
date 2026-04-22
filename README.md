@@ -36,6 +36,12 @@ I enjoy building projects and learning how systems work in real-world environmen
 
 ---
 
+## 
+- [Google Cybersecurity Professional Certificate ](https://coursera.org/share/37442210b1d6143f3045696d21e8db42)
+- [Manage Security Risks](https://coursera.org/share/c934a3b44e336e7c4a8adbf57a2b3dc0)
+- [Cybersecurity Analyst Job Simulation – Tata Group (Forage)](https://github.com/19Chandrika/TCS-Cyber-security-certificate-/raw/main/TCS%20Cyber%20Security%20Certificate%20(4).pdf)
+- [Cybersecurity Workshop – TechBairn Research](https://drive.google.com/file/d/1TNG_p3jO16zKIXs-vc2R31V2EARDZiKV/view)
+
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: [https://linkedin.com/in/YOUR-LINK  ](https://www.linkedin.com/in/chandrika-malatesh-koppad-7322a3363/)
