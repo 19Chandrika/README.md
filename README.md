@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Chandrika
 
 🎓 MCA Student  
-💻 Aspiring Software Developer & Cybersecurity Enthusiast  
-🔐 Passionate about Network Security and Problem Solving  
-Digital Artist | 💻 Tech Enthusiast
+ Aspiring Software Developer & Cybersecurity Enthusiast  
+ Passionate about Network Security and Problem Solving  
 
 ---
 
